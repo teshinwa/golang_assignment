@@ -9,7 +9,7 @@ import (
 	"github.com/pkg/errors"
 	"gorm.io/gorm"
 
-	"github.com/pallat/todos/logger"
+	"github.com/teshinwa/golang_assignment/logger"
 )
 
 func NewNewTaskHandler(db *gorm.DB) echo.HandlerFunc {

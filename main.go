@@ -17,10 +17,10 @@ import (
 	"gorm.io/driver/sqlserver"
 	"gorm.io/gorm"
 
-	"github.com/pallat/todos/auth"
-	"github.com/pallat/todos/captcha"
-	"github.com/pallat/todos/logger"
-	"github.com/pallat/todos/todos"
+	"github.com/teshinwa/golang_assignment/auth"
+	"github.com/teshinwa/golang_assignment/captcha"
+	"github.com/teshinwa/golang_assignment/logger"
+	"github.com/teshinwa/golang_assignment/todos"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/pallat/todos/captcha"
+	"github.com/teshinwa/golang_assignment/captcha"
 
 	"github.com/stretchr/testify/assert"
 )
